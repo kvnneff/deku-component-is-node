@@ -32,3 +32,6 @@ isNode(node, 'span') //=> returns `false`
   Returns `true` if `node` is a valid Deku node.  If `type` is specified,
   it will ensure that type is strictly equal. (whether that is a `Component`
   or a `String` element name)
+
+## License
+MIT

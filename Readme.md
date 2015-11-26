@@ -1,11 +1,11 @@
-# deku-is-node [![Build Status](https://travis-ci.org/kvnneff/deku-is-node.svg?branch=master)](https://travis-ci.org/kvnneff/deku-is-node)
+# deku-component-is-node [![Build Status](https://travis-ci.org/kvnneff/deku-component-is-node.svg?branch=master)](https://travis-ci.org/kvnneff/deku-component-is-node)
 
 Determine if an object is a valid [Deku](https://github.com/dekujs/deku) node.  Useful for testing.
 
 ## Example
 
 ```js
-import isNode from 'deku-is-node'
+import isNode from 'deku-component-is-node'
 import element from 'virtual-element'
 import Mock from 'component-mock'
 

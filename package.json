@@ -1,0 +1,33 @@
+{
+  "name": "deku-is-node",
+  "version": "1.0.0",
+  "description": "Determine if an object is a valid Deku node",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kvnneff/deku-is-node.git"
+  },
+  "keywords": [
+    "deku",
+    "node",
+    "app",
+    "test"
+  ],
+  "author": "Kevin Neff",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kvnneff/deku-is-node/issues"
+  },
+  "homepage": "https://github.com/kvnneff/deku-is-node#readme",
+  "devDependencies": {
+    "component-mock": "0.0.2",
+    "mocha": "^2.3.4",
+    "virtual-element": "^1.2.0"
+  }
+}
